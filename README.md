@@ -90,9 +90,5 @@ Language: Python:
 * EDA Libraries: Pandas, numpy, seaborn, matplotlib، Missingno
 
 * Model Building Libraries: sklearn and Model Testing libraries sklearn
-
-
-
- 
  
  
